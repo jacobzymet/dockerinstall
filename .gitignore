@@ -1,0 +1,11 @@
+obj
+bin
+*.user
+*.suo
+*.log
+*.vs
+.vscode
+*.nupkg
+*.snupkg
+packages/
+TestResults/
